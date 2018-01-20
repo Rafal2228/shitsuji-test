@@ -1,0 +1,32 @@
+{
+    "applications": [
+      {
+        "name": "Shitsuji Test",
+        "key": "shitsuji-test",
+        "version": "1.0.0",
+        "dependencies": [
+          {
+            "key": "shitsuji-test-webapi",
+            "version": "1.0.0"
+          }
+        ]
+      },
+      {
+        "name": "Shitsuji Test Hooks",
+        "key": "shitsuji-test-hooks",
+        "version": "1.0.0",
+        "dependencies": []
+      },
+      {
+        "name": "Shitsuji Test Webapi",
+        "key": "shitsuji-test-webapi",
+        "version": "1.0.0",
+        "dependencies": [
+            {
+            "key": "shitsuji-test-hooks",
+            "version": "1.0.0"
+            }
+        ]
+      }
+    ]
+  }
