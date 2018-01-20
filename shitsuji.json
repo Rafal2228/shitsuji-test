@@ -3,28 +3,28 @@
       {
         "name": "Shitsuji Test",
         "key": "shitsuji-test",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "dependencies": [
           {
             "key": "shitsuji-test-webapi",
-            "version": "1.0.0"
+            "version": "1.0.1"
           }
         ]
       },
       {
         "name": "Shitsuji Test Hooks",
         "key": "shitsuji-test-hooks",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "dependencies": []
       },
       {
         "name": "Shitsuji Test Webapi",
         "key": "shitsuji-test-webapi",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "dependencies": [
             {
             "key": "shitsuji-test-hooks",
-            "version": "1.0.0"
+            "version": "1.0.1"
             }
         ]
       }
