@@ -3,7 +3,7 @@
       {
         "name": "Shitsuji Test",
         "key": "shitsuji-test",
-        "version": "1.0.3",
+        "version": "1.0.4",
         "dependencies": [
           {
             "key": "shitsuji-test-webapi",
